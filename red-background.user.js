@@ -12,7 +12,7 @@
 var user_script_coffee = (<><![CDATA[
 #------------------------------------------------------------------------------
 
-document.body.style.background = 'red'
+document.body.style.background = 'green'
 
 #------------------------------------------------------------------------------
 ]]></>).toString(); eval(this.CoffeeScript.compile(user_script_coffee));
