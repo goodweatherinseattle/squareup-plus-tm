@@ -11,7 +11,7 @@
 
 // @grant        unsafeWindow
 
-// @version      0.1
+// @version      0.7
 // ==/UserScript==
 var user_script_coffee = (<><![CDATA[
 #------------------------------------------------------------------------------
