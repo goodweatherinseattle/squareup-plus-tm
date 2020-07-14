@@ -1,15 +1,16 @@
 // ==UserScript==
 // @name         Red Background
-// @namespace    https://github.com/
-// @updateURL    https://github.com/goodweatherinseattle/tampermonkey/raw/master/red-background.user.js
 // @description  Turns website background to red
 // @author       Ingy döt Net
-// @require      http://coffeescript.org/browser-compiler/coffeescript.js
+
+// @namespace    https://github.com/
+// @updateURL    https://github.com/goodweatherinseattle/tampermonkey/raw/master/red-background.user.js
+
 // @match        http://ingy.net
-// @match        https://www.goodweatherinseattle.com/
+// @require      http://coffeescript.org/browser-compiler/coffeescript.js
+
 // @version      0.5
 // ==/UserScript==
-
 var user_script_coffee = (<><![CDATA[
 #------------------------------------------------------------------------------
 
