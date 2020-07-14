@@ -8,6 +8,7 @@
 // @match        http://ingy.net
 // @match        https://www.goodweatherinseattle.com/
 // ==/UserScript==
+
 var user_script_coffee = (<><![CDATA[
 //#----------------------------------------------------------------------------
 
