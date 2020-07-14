@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Red Background
+// @name         SquareUp Plus
 // @description  SquareUp improvements for Good Weather
 // @author       Ingy döt Net
 
