@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Red Background
 // @namespace    https://github.com/
+// @updateURL    https://github.com/goodweatherinseattle/tampermonkey/raw/master/red-background.user.js
 // @version      0.2
 // @description  Turns website background to red
 // @author       Ingy döt Net
