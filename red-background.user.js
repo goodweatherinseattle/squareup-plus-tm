@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Red Background
 // @namespace    https://github.com/
-// @version      0.1
+// @version      0.2
 // @description  Turns website background to red
 // @author       Ingy döt Net
 // @require      http://coffeescript.org/browser-compiler/coffeescript.js
