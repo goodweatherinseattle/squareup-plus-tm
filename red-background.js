@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Red Background
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/
 // @version      0.1
 // @description  Turns website background to red
 // @author       Ingy döt Net
