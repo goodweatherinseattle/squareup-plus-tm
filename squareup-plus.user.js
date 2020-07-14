@@ -18,7 +18,9 @@ var user_script_coffee = (<><![CDATA[
 
 window.w = window.unsafeWindow = unsafeWindow
 
-document.title = 'Hacked 1'
+document.setTimeout ->
+  document.title = 'Hacked 1'
+, 3000
 
 #------------------------------------------------------------------------------
 ]]></>).toString(); eval(this.CoffeeScript.compile(user_script_coffee));
